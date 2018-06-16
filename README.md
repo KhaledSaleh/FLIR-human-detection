@@ -16,4 +16,3 @@ This code demonstartes a hand-crafted image processing algorithm for detecting h
 - In order to test the human detection algorithm on your raw radimoetry data folder, run the `main.py` script. For more information on the available options/argument to pass to the script, run the following command:
 ```
 python main.py --help
-``
